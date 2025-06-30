@@ -1,0 +1,5 @@
+Dataset Description - Blinkit Sales Data
+
+- Contains information about retail items sold on Blinkit.
+- Key columns: Item_Type, Item_Fat_Content, Outlet_Size, Outlet_Location_Type, Rating, Total_Sales, etc.
+- Used for sales and customer behavior analysis.
